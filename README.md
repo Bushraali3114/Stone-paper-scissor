@@ -1,2 +1,1 @@
-
-Simple-Web-Calculator
+stone/paper/scissor 
